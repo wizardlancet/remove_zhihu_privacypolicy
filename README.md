@@ -1,0 +1,2 @@
+# remove_zhihu_privacypolicy
+greasy monkey脚本，去掉知乎对隐私政策的强制询问，维持原有的浏览功能
